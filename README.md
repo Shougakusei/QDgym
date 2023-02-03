@@ -53,7 +53,7 @@ and yaw angles and the relative position of the robots joints.
 Installation is easy with pip. Just do:
 
 ```
-pip3 install git+https://github.com/ollenilsson19/QDgym.git#egg=QDgym
+pip3 install git+https://github.com/Shougakusei/QDgym.git#egg=QDgym
 ```
 
 this will also automatically install the dependencies requred (gym, pybullet, numpy).
